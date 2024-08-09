@@ -1,0 +1,6 @@
+Churn de seguros masivos (Mario Solano) 
+•Problema: El inventario de subscripciones de seguros masivos disminuye por las cancelaciones al mismo ritmo que se añaden nuevos seguros por las ventas haciendo que no crezca el volumen total de certificados y al mismo tiempo las primas percibidas por las cuotas de seguros.
+Puede ser resulto por ciencia de datos ya que podemos encontrar las principales variables que afectan las cancelaciones y encontrar patrones en el comportamiento de los clientes que nos ayuden a poder retenerlos.
+•Pregunta SMART:
+¿Cómo puede aumentarse en un 10% el tiempo en el que está activo una suscripción de seguro de vida masivo colocado por Davivienda Seguros en el periodo del 2020 al 2024?
+•Requerimiento de los datos: Fechas de aperturas, cancelaciones, movimientos de pagos, características de los clientes, etc.
